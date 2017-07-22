@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.0.39\avrasm\inc\ATxmega128A1Udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\Debug\Lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3.map</FILE>
+  <FILE>Lab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>21</LINE></MAIN>
+  <START><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>72</LINE></START>
+  <SHIFTRIGHT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>104</LINE></SHIFTRIGHT>
+  <SHIFTLEFT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>85</LINE></SHIFTLEFT>
+  <DELAYx10ms><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>125</LINE></DELAYx10ms>
+  <CARRYLEFT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>93</LINE></CARRYLEFT>
+  <FINISHLEFT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>98</LINE></FINISHLEFT>
+  <CARRYRIGHT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>112</LINE></CARRYRIGHT>
+  <FINISHRIGHT><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>117</LINE></FINISHRIGHT>
+  <DELAY10ms><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>128</LINE></DELAY10ms>
+  <SUBDELAY><FILE>C:\Users\Mitch\Classes\Fall 2016\EEL 3744_Microprocessor Applications\Lab3\Lab3\lab3.asm</FILE><LINE>132</LINE></SUBDELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
